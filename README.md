@@ -14,7 +14,7 @@ pip install .
 
 ## Configulation
 
-You must enable Google-2-factor-authentication.
+You must enable Google-2-factor-authentication.  
 <https://myaccount.google.com/signinoptions/two-step-verification>  
 Generate app password  
 <https://myaccount.google.com/apppasswords>  
