@@ -8,5 +8,7 @@ setup(
         author_email='',
         packages=['pymail'],
         install_requires=[],
-        # install_requires=['wheel', 'bar', 'requests]
+        entry_points={
+            'console_scripts': ['pymail=pymail.send_mail.main']
+            }
     )
